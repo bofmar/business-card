@@ -14,5 +14,5 @@ export default function Buttons() {
         LinkedIn
       </button>
     </div>
-  )
+  );
 }
