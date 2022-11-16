@@ -73,3 +73,9 @@ select {
   }
 }
 
+body {
+  background-color: #374151;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
