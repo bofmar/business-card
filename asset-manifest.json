@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/learn/learnreact/static/css/main.499b2ad1.css",
+    "main.js": "/learn/learnreact/static/js/main.9966454e.js",
+    "static/js/787.bc412fff.chunk.js": "/learn/learnreact/static/js/787.bc412fff.chunk.js",
+    "static/media/pic.jpg": "/learn/learnreact/static/media/pic.7d8e9d0911b37d0ea501.jpg",
+    "static/media/github.svg": "/learn/learnreact/static/media/github.408da3db98b1a431f9d782498fd3ba86.svg",
+    "static/media/email.svg": "/learn/learnreact/static/media/email.782f5102f06c34c1439dc0e21fa103cd.svg",
+    "index.html": "/learn/learnreact/index.html",
+    "static/media/linkedin.svg": "/learn/learnreact/static/media/linkedin.cc419b0e9d5c444bc0713c850f768d23.svg",
+    "main.499b2ad1.css.map": "/learn/learnreact/static/css/main.499b2ad1.css.map",
+    "main.9966454e.js.map": "/learn/learnreact/static/js/main.9966454e.js.map",
+    "787.bc412fff.chunk.js.map": "/learn/learnreact/static/js/787.bc412fff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.499b2ad1.css",
+    "static/js/main.9966454e.js"
+  ]
+}
