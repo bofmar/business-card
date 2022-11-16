@@ -1,6 +1,7 @@
 import Info from './componenets/Info';
 import Buttons from './componenets/Buttons';
 import About from './componenets/About';
+import Interests from './componenets/Interests';
 import picture from './images/pic.jpg';
 import './App.css';
 
@@ -11,6 +12,7 @@ function App() {
       <Info />
       <Buttons />
       <About />
+      <Interests />
 
 
     </div>
