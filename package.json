@@ -2,7 +2,7 @@
   "name": "business-card",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://scrimba.com/learn/learnreact",
+  "homepage": "https://bofmar.github.io/business-card",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
